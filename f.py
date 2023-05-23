@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Create a DataFrame with a single column named 'Name'
-data = {'Name': ['John Doe']}
+data = {'Name': ['John']}
 df = pd.DataFrame(data)
 
 # Specify the file path to save the Excel file
